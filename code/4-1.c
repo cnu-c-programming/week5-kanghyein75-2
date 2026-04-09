@@ -9,6 +9,6 @@ void echo() {
 
 int main() {
     int x = 42;
-    ech0();
+    echo();
     return 0;
 }
